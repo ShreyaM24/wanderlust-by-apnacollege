@@ -1,7 +1,9 @@
 # 🌍 WanderLust – Airbnb Inspired Project
 
 **WanderLust** is my first full-stack web application, inspired by Airbnb, and completely built using the **MVC (Model–View–Controller) architecture**.  
-It’s a travel listing platform where users can explore, filter, and manage stays with interactive maps and responsive UI.  
+It’s a travel listing platform where users can explore, filter, and manage stays with interactive maps and responsive UI.
+
+🔗 **Live Demo:** [Click here to explore WanderLust](https://wanderlust-yfkx.onrender.com/) 🚀
 
 ---
 
@@ -53,7 +55,7 @@ MAPBOX_TOKEN=your_mapbox_or_leaflet_token
 npm start
 ```
 
-Now open **[http://localhost:3000](http://localhost:3000)** in your browser 🎉
+Now open **[http://localhost:8080]** in your browser 🎉
 
 ---
 
