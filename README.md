@@ -55,7 +55,7 @@ MAPBOX_TOKEN=your_mapbox_or_leaflet_token
 npm start
 ```
 
-Now open **[http://localhost:8080]** in your browser 🎉
+Now open **[http://localhost:8080](http://localhost:8080)** in your browser 🎉
 
 ---
 
