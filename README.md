@@ -28,8 +28,8 @@ It’s a travel listing platform where users can explore, filter, and manage sta
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/wanderlust.git
-cd wanderlust
+git clone https://github.com/ShreyaM24/wanderlust-by-apnacollege.git
+cd wanderlust-by-apnacollege
 ````
 
 ### 2️⃣ Install dependencies
